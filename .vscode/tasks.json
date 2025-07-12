@@ -1,0 +1,66 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Deno: Dev (observablePlot)",
+      "type": "shell",
+      "command": "deno",
+      "args": ["task", "dev"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "options": {
+        "cwd": "${workspaceFolder}/observablePlot"
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "new",
+        "showReuseMessage": true,
+        "clear": false
+      },
+      "problemMatcher": [],
+      "isBackground": true
+    },
+    {
+      "label": "Deno: Dev (DenoBabel)",
+      "type": "shell",
+      "command": "deno",
+      "args": ["task", "dev"],
+      "group": "build",
+      "options": {
+        "cwd": "${workspaceFolder}/DenoBabel"
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": true,
+        "clear": false
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Deno: Dev (TailwindCss)",
+      "type": "shell",
+      "command": "deno",
+      "args": ["task", "dev"],
+      "group": "build",
+      "options": {
+        "cwd": "${workspaceFolder}/TailwindCss"
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": true,
+        "clear": false
+      },
+      "problemMatcher": []
+    }
+  ]
+} 

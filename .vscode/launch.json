@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "request": "launch",
+            "name": "Deno: Dev (observablePlot)",
+            "type": "node",
+            "runtimeExecutable": "/Users/christiannogueras/.deno/bin/deno",
+            "runtimeArgs": ["run", "--allow-net", "--allow-read"],
+            "program": "${workspaceFolder}/observablePlot/main.ts",
+            "cwd": "${workspaceFolder}/observablePlot",
+            "env": {},
+            "console": "integratedTerminal",
+            "stopOnEntry": false
+        },
+        {
+            "request": "launch",
+            "name": "Deno: Dev (DenoBabel)",
+            "type": "node",
+            "runtimeExecutable": "/Users/christiannogueras/.deno/bin/deno",
+            "runtimeArgs": ["run", "-A", "--watch"],
+            "program": "${workspaceFolder}/DenoBabel/main.ts",
+            "cwd": "${workspaceFolder}/DenoBabel",
+            "env": {},
+            "console": "integratedTerminal",
+            "stopOnEntry": false
+        },
+        {
+            "request": "launch",
+            "name": "Deno: Dev (TailwindCss)",
+            "type": "node",
+            "runtimeExecutable": "/Users/christiannogueras/.deno/bin/deno",
+            "runtimeArgs": ["run", "-A", "--watch"],
+            "program": "${workspaceFolder}/TailwindCss/main.ts",
+            "cwd": "${workspaceFolder}/TailwindCss",
+            "env": {},
+            "console": "integratedTerminal",
+            "stopOnEntry": false
+        }
+    ]
+}
