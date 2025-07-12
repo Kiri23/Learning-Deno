@@ -1,0 +1,12 @@
+{
+  "name": "simple-native-app",
+  "version": "1.0.0",
+  "description": "Aplicación nativa simple para macOS",
+  "main": "main.ts",
+  "tasks": {
+    "dev": "deno run --allow-run --allow-env --allow-read main.ts",
+    "compile": "deno compile --allow-run --allow-env --allow-read --target aarch64-apple-darwin main.ts",
+    "run": "./simple-native-app"
+  },
+  "exports": "./main.ts"
+} 
