@@ -1,9 +1,14 @@
 {
   "tasks": {
     "dev": "deno run --allow-net --allow-read main.ts",
-    "start": "deno run --allow-net --allow-read main.ts"
+    "start": "deno run --allow-net --allow-read main.ts",
+    "watch:plot": "deno bundle --outdir dist --code-splitting --inline-imports=false --watch plot.ts"
   },
   "imports": {
     "plot": "https://esm.sh/@observablehq/plot@0.6"
+  },
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "strict": true
   }
 } 
