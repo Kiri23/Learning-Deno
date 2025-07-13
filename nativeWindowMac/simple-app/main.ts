@@ -62,9 +62,6 @@ async function main() {
       "¡Hola Mundo! Esta aplicación fue compilada con deno compile para Apple Silicon."
     );
     
-    // Terminar el proceso de sonido
-    soundProcess.kill();
-    
     console.log("✅ Aplicación completada exitosamente");
     
   } catch (error) {

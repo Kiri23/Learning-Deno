@@ -6,7 +6,7 @@
   "tasks": {
     "dev": "deno run --allow-run --allow-env --allow-read main.ts",
     "compile": "deno compile --allow-run --allow-env --allow-read --target aarch64-apple-darwin main.ts",
-    "run": "./simple-native-app"
+    "run": "./simple-app"
   },
   "exports": "./main.ts"
 } 
