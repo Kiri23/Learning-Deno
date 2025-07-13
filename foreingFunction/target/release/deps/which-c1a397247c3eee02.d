@@ -1,0 +1,10 @@
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/foreingFunction/target/release/deps/which-c1a397247c3eee02.d: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/checker.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/error.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/finder.rs
+
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/foreingFunction/target/release/deps/libwhich-c1a397247c3eee02.rlib: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/checker.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/error.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/finder.rs
+
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/foreingFunction/target/release/deps/libwhich-c1a397247c3eee02.rmeta: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/checker.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/error.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/finder.rs
+
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/lib.rs:
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/checker.rs:
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/error.rs:
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/which-4.4.2/src/finder.rs:

@@ -1,0 +1,1 @@
+/Users/christiannogueras/Documents/Personal\ projects/Learning\ /Web\ Development/Learning-Deno/foreingFunction/advanced-ffi/target/x86_64-apple-darwin/release/libadvanced_rust_ffi.dylib: /Users/christiannogueras/Documents/Personal\ projects/Learning\ /Web\ Development/Learning-Deno/foreingFunction/advanced-ffi/src/lib.rs

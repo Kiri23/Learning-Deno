@@ -1,0 +1,1 @@
+/Users/christiannogueras/Documents/Personal\ projects/Learning\ /Web\ Development/Learning-Deno/foreingFunction/image-processing/target/x86_64-apple-darwin/release/libimage_processing_ffi.dylib: /Users/christiannogueras/Documents/Personal\ projects/Learning\ /Web\ Development/Learning-Deno/foreingFunction/image-processing/src/lib.rs

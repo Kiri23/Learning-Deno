@@ -1,0 +1,1 @@
+/Users/christiannogueras/Documents/Personal\ projects/Learning\ /Web\ Development/Learning-Deno/foreingFunction/target/debug/libhello_rust_ffi.dylib: /Users/christiannogueras/Documents/Personal\ projects/Learning\ /Web\ Development/Learning-Deno/foreingFunction/src/lib.rs

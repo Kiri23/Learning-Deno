@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": ["deno.window"],
+    "strict": true
+  },
+  "imports": {
+    "deno_core": "https://deno.land/x/deno_core@v0.242.0/mod.ts"
+  },
+  "tasks": {
+    "build": "cargo build --release",
+    "test": "deno run --allow-read --allow-ffi main.ts",
+    "dev": "cargo build && deno run --allow-read --allow-ffi main.ts"
+  }
+} 

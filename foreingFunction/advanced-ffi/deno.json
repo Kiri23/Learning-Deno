@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "build": "cd .. && cargo build --release",
+    "start": "deno run --allow-ffi client.ts",
+    "dev": "deno run --allow-ffi --watch client.ts"
+  },
+  "imports": {
+    "./": "./"
+  }
+} 

@@ -1,0 +1,9 @@
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/foreingFunction/target/release/deps/convert_case-f5005c844a4031ef.d: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/case.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/words.rs
+
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/foreingFunction/target/release/deps/libconvert_case-f5005c844a4031ef.rlib: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/case.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/words.rs
+
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/foreingFunction/target/release/deps/libconvert_case-f5005c844a4031ef.rmeta: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/case.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/words.rs
+
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/lib.rs:
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/case.rs:
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.4.0/src/words.rs:
