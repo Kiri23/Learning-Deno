@@ -1,0 +1,1 @@
+{"rustc":12610991425282158916,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[14131061446229887432,"build_script_build",false,4763253138094418645]],"local":[{"RerunIfChanged":{"output":"x86_64-apple-darwin/release/build/zerocopy-0b03e36fe5aa0008/output","paths":["build.rs","Cargo.toml"]}}],"rustflags":[],"config":0,"compile_kind":0}

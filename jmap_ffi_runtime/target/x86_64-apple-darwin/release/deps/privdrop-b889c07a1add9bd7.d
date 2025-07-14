@@ -1,0 +1,9 @@
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/jmap_ffi_runtime/target/x86_64-apple-darwin/release/deps/privdrop-b889c07a1add9bd7.d: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/errors.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/privdrop.rs
+
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/jmap_ffi_runtime/target/x86_64-apple-darwin/release/deps/libprivdrop-b889c07a1add9bd7.rlib: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/errors.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/privdrop.rs
+
+/Users/christiannogueras/Documents/Personal projects/Learning /Web Development/Learning-Deno/jmap_ffi_runtime/target/x86_64-apple-darwin/release/deps/libprivdrop-b889c07a1add9bd7.rmeta: /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/lib.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/errors.rs /Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/privdrop.rs
+
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/lib.rs:
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/errors.rs:
+/Users/christiannogueras/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/privdrop-0.5.6/src/privdrop.rs:
